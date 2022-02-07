@@ -1,0 +1,11 @@
+mkdir lab-1
+cd lab-1
+git clone https://github.com/V-Ananya/CDD.git
+cd CDD
+git init
+notepad lab1.txt
+git status
+git add .
+git add lab1.txt
+git commit
+git push
